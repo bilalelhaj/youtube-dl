@@ -1,0 +1,14 @@
+{
+    "installed": {
+        "client_id": "365543959009-dq01fpbn24athsqap9hbq50srdsqaggb.apps.googleusercontent.com",
+        "project_id": "shamela",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "6hL7BoLr-CcVb6dD5hrpCexD",
+        "redirect_uris": [
+            "urn:ietf:wg:oauth:2.0:oob",
+            "http://localhost"
+        ]
+    }
+}
